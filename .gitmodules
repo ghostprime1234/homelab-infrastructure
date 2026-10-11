@@ -1,3 +1,6 @@
 [submodule "vps-gateway/docker/marks-manager"]
 	path = vps-gateway/docker/marks-manager
 	url = git@github.com:Michael-mm409/University-Marks-Manager.git
+[submodule "automation/fedora-setup"]
+	path = automation/fedora-setup
+	url = https://github.com/ghostprime1234/fedora-config.git

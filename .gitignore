@@ -1,2 +1,16 @@
 **/__pycache__/
 **/*.pyc
+# Runtime logs
+*.log
+*.log.*
+*.gz
+
+# Databases and runtime data
+*.sqlite
+*.db
+data/
+
+# Secrets and keys
+keys.json
+*.key
+*.env
